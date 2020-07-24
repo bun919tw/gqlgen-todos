@@ -5,8 +5,8 @@ package graph
 
 import (
 	"context"
-	"crypto/rand"
 	"fmt"
+	"math/rand"
 
 	"github.com/bun919tw/gqlgen-todos/graph/generated"
 	"github.com/bun919tw/gqlgen-todos/graph/model"
